@@ -13,7 +13,7 @@
 - 3 years of experience building data pipelines in **Python, PySpark, SQL, Snowflake, AWS, Databricks, Kafka and Airflow**
 - Master's in Data Science from **New Jersey Institute of Technology** (Newark, USA) and Bachelor's in Computer Science from **PES University** (Bangalore, India)
 
-### 📂 Featured project
+### 📂 Featured projects
 
 **[EditGuard](https://github.com/kaarthikmohaan/EditGuard)**
 Real-time triage of Wikipedia edits that bots miss. An end-to-end streaming data project built to show production style pipeline design.
