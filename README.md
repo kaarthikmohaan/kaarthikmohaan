@@ -18,6 +18,9 @@
 **[EditGuard](https://github.com/kaarthikmohaan/EditGuard)**
 Real-time triage of Wikipedia edits that bots miss. An end-to-end streaming data project built to show production style pipeline design.
 
+**[QuakeWatch](https://github.com/kaarthikmohaan/quakewatch)**
+Auditable Snowflake batch warehouse for five years of USGS earthquake records. Snowpark revision history, tombstones, reconciled loads, Time Travel recovery and validated Cortex summaries.
+
 🛠️ Tech stack
 
 Languages & querying
