@@ -33,7 +33,7 @@ Processing & orchestration
 
 Cloud & warehousing
 
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width="40" height="40">&nbsp;&nbsp; <img src="https://api.iconify.design/logos/snowflake-icon.svg" alt="Snowflake" title="Snowflake" width="40" height="40">&nbsp;&nbsp; <img src="https://api.iconify.design/logos/databricks-icon.svg" alt="Databricks" title="Databricks" width="40" height="40">&nbsp;&nbsp; <img src="https://github.com/delta-io.png" alt="Delta Lake" title="Delta Lake" width="40" height="40">&nbsp;&nbsp; <img src="https://iceberg.apache.org/assets/images/favicon-96x96.png" alt="Apache Iceberg" title="Apache Iceberg" width="40" height="40"> </p>
+<p> <img src="https://api.iconify.design/logos/aws.svg" alt="AWS" title="AWS" width="40" height="40">&nbsp;&nbsp; <img src="https://api.iconify.design/logos/snowflake-icon.svg" alt="Snowflake" title="Snowflake" width="40" height="40">&nbsp;&nbsp; <img src="https://api.iconify.design/logos/databricks-icon.svg" alt="Databricks" title="Databricks" width="40" height="40">&nbsp;&nbsp; <img src="https://github.com/delta-io.png" alt="Delta Lake" title="Delta Lake" width="40" height="40">&nbsp;&nbsp; <img src="https://iceberg.apache.org/assets/images/favicon-96x96.png" alt="Apache Iceberg" title="Apache Iceberg" width="40" height="40"> </p>
 
 DevOps, quality & BI
 
